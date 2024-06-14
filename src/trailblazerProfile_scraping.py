@@ -94,7 +94,7 @@ class Scraping(ScrapingUtil):
                 temp_dict["TrailheadCode__c"] = self.trailhead_dict[badge]['TRAILHEADCODE__C']
             except KeyError:
                 pass
-            temp_dict["scrapingExecutionDate"] = self.now
+            temp_dict["ScrapingExecutionDate__c"] = self.now
             output.append(temp_dict)
             
         return output
