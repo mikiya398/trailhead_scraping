@@ -103,7 +103,12 @@ class Scraping(ScrapingUtil):
             }
             certification_list.append(temp_dict)
         return certification_list
-
+    def scraping_all_trailhead(self):
+        if (not(trailblazerProfile_scraping_prop.get_all_trailhead_flg)):
+            return
+        
+            
+        
     def main(self):
         """すべてのTrailblazer IDに対してスクレイピングを実行するメインメソッド。"""
         trailblazerIds = self.read_csv(trailblazerProfile_scraping_prop.input_trailblazerId_file)
