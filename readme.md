@@ -1,5 +1,5 @@
 ・プログラムの概要（trailblazerProfile_scraping.py）
-    ・./data/input/フォルダに格納された「各行が一つのTrainblazerId値を持つ」csvファイルと「Trailhead__cオブジェクトをエクスポートした」csvファイルを元に、各ユーザのTrailheadバッチと資格をスクレイピングによって取得し、./data/output/フォルダに保存する。
+    ./data/input/フォルダに格納された「各行が一つのTrainblazerId値を持つ」csvファイルと「Trailhead__cオブジェクトをエクスポートした」csvファイルを元に、各ユーザのTrailheadバッチと資格をスクレイピングによって取得し、./data/output/フォルダに保存する。
 
 
 ・必要ライブラリ
