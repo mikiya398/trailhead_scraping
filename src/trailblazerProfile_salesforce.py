@@ -1,19 +1,18 @@
-import os
-import pprint
 from simple_salesforce import Salesforce
+import json
 
 # 環境変数から当該組織へアクセスできるユーザー名/パスワードを読み込み
-USERNAME = os.environ['USERNAME']
-PASSWORD = os.environ['PASSWORD']
+USERNAME = 'mkitamura@sfdc.0'
+PASSWORD = 'Salesforce01'
+TOKEN = 'v290FvnColqOzZFmD351PlmN'
 
 # 接続実施
 # Sandbox に接続する場合は引数に domain='test' を加える
-sf = Salesforce(username=USERNAME, password=PASSWORD, security_token='')
+sf = Salesforce(username=USERNAME, password=PASSWORD, security_token=TOKEN)
 
-# 特定オブジェクトの項目情報を取得
-# 次は取引先(Account)の項目。Account を Contact や Opportunity に変えることで他のオブエクトの項目情報を取得できる
-fields = sf.Account.describe()['fields']
+# JSONファイルを読み込む
+with open('./data/output/trailhead.json', 'r', encoding='utf-8') as file:
+    data = json.load(file)
+print(data)
 
-# 項目名と型を出力
-for field in fields:
-    print(f'{field["name"]} {field["type"]}')
+sf.bulk.Trailhead__c.insert(data, batch_size=10000,use_serial=True)

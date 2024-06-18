@@ -9,7 +9,6 @@ from selenium.webdriver.chrome.options import Options
 from trailblazerProfile_scraping_util import ScrapingUtil
 import trailblazerProfile_scraping_prop
 
-
 class Scraping(ScrapingUtil):
     def __init__(self):
         self.change_language_Flg = True
@@ -18,11 +17,17 @@ class Scraping(ScrapingUtil):
         self.terminate_existing_chrome_processes()
         self.options = self.configure_chrome_options()
         self.driver = webdriver.Chrome(options=self.options)
-        self.url = 'https://www.salesforce.com/trailblazer/'
         self.now = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M")
         self.wait = WebDriverWait(self.driver, 10)
         self.trailhead_dict = self.create_dict_from_csv(trailblazerProfile_scraping_prop.input_trailhead_file, 0)
-
+        
+    def find_shadow(self, parent_tag, search_child_tag_name):
+        output = [i.shadow_root for i in parent_tag.find_elements(By.CSS_SELECTOR, '*') if i.tag_name == search_child_tag_name]
+        if len(output) == 1:
+            return output[0]
+        else:
+            return output
+    
     def terminate_existing_chrome_processes(self):
         """既存のChromeプロセスを終了して競合を避ける。"""
         for proc in psutil.process_iter(['pid', 'name']):
@@ -37,10 +42,9 @@ class Scraping(ScrapingUtil):
         options.add_argument("--lang=ja-JP")
         return options
 
-    def access_page(self, trailblazerId):
+    def access_page(self, url):
         """指定されたTrailblazerプロフィールページにアクセスする。"""
-        print('***** ' + trailblazerId + ' *****')
-        url = self.url + trailblazerId
+        print('***** ' + url + ' *****')
         self.driver.get(url)
         self.handle_cookie_consent()
 
@@ -104,21 +108,56 @@ class Scraping(ScrapingUtil):
             certification_list.append(temp_dict)
         return certification_list
     def scraping_all_trailhead(self):
+        output = []
         if (not(trailblazerProfile_scraping_prop.get_all_trailhead_flg)):
             return
-        
-            
+        for url in trailblazerProfile_scraping_prop.modules_projects_url:
+            self.access_page(url)
+            if url == 'https://trailhead.salesforce.com/ja/modules':
+                a = self.driver.find_element(By.TAG_NAME, 'lx-module-index-page').shadow_root
+            elif url == 'https://trailhead.salesforce.com/ja/projects':
+                a = self.driver.find_element(By.TAG_NAME, 'lx-project-index-page').shadow_root
+            b = self.find_shadow(a, 'lwc-lx-learning-search-content-page')
+            c = self.find_shadow(b, 'lwc-lx-learning-search-collection')
+            d = self.find_shadow(c, 'lwc-th-content-collection')
+            e = self.find_shadow(d, 'lwc-tds-content-collection-card')
+            f = self.find_shadow(e, 'lwc-tds-card')
+
+            while True:
+                try:
+                    button_element = [i for i in f.find_elements(By.CSS_SELECTOR, '*') if i.tag_name == 'lwc-tds-button'][0]
+                    if button_element.text in ['さらに表示', 'Show More']:
+                        button_element.click()
+                    else:
+                        break
+                except:
+                    break
+            time.sleep(20)
+            lwc_tds_content_collection_items = self.find_shadow(d, 'lwc-tds-content-collection-item')
+            output = []
+            for item in lwc_tds_content_collection_items:
+                temp = {}
+                g = self.find_shadow(item, 'lwc-tds-content-summary')
+                h = self.find_shadow(g, 'lwc-tds-summary')
+                project_module_link = [i for i in h.find_elements(By.CSS_SELECTOR, '*') if i.tag_name == 'a'][0]
+                lwc_tds_trun_cate = self.find_shadow(project_module_link, 'lwc-tds-truncate')
+                temp['Name'] = [i.get_attribute('title') for i in lwc_tds_trun_cate.find_elements(By.CSS_SELECTOR, '*') if i.tag_name == 'div'][0]
+                temp['TrailheadCode__c'] = project_module_link.get_attribute('href').split('/')[-2] + '_' + project_module_link.get_attribute('href').split('/')[-1]
+                temp['URL__c'] = project_module_link.get_attribute('href')
+                output.append(temp)
+        self.save_json(output, 'Trailhead__c_' + str(self.now))
         
     def main(self):
         """すべてのTrailblazer IDに対してスクレイピングを実行するメインメソッド。"""
+        self.scraping_all_trailhead()
         trailblazerIds = self.read_csv(trailblazerProfile_scraping_prop.input_trailblazerId_file)
         badge_dict_list = []
         certification_dict_list = []
         for trailblazerId in trailblazerIds:
-            self.access_page(trailblazerId)
+            self.access_page(trailblazerProfile_scraping_prop.trailblazer_url + trailblazerId)
             badge_dict_list += self.scraping_trailhead_badge(trailblazerId)
             certification_dict_list += self.scraping_salesforce_certification(trailblazerId)
-        self.save_json(badge_dict_list, 'badge_' + str(self.now))
+        self.save_json(badge_dict_list, 'CompletedTrailheadWK__c_' + str(self.now))
         self.save_json(certification_dict_list, 'certification_' + str(self.now))
 
 
