@@ -94,3 +94,10 @@ class ScrapingUtil():
                     temp_dict[header] = row[j]
                 result_dict[row[key_index]] = temp_dict
         return result_dict
+
+    def open_json(self, json_file_path):
+        if json_file_path == '':
+            return {}
+        with open(json_file_path, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+        return data

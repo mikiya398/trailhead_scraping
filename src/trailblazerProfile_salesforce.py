@@ -13,6 +13,4 @@ sf = Salesforce(username=USERNAME, password=PASSWORD, security_token=TOKEN)
 # JSONファイルを読み込む
 with open('./data/output/trailhead.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
-print(data)
-
 sf.bulk.Trailhead__c.insert(data, batch_size=10000,use_serial=True)
