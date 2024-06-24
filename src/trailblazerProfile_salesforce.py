@@ -11,6 +11,7 @@ TOKEN = 'v290FvnColqOzZFmD351PlmN'
 sf = Salesforce(username=USERNAME, password=PASSWORD, security_token=TOKEN)
 
 # JSONファイルを読み込む
-with open('./data/output/trailhead.json', 'r', encoding='utf-8') as file:
+with open('./data/output/CompletedTrailheadWK__c_2024-06-20-10-20 copy.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
-sf.bulk.Trailhead__c.insert(data, batch_size=10000,use_serial=True)
+    
+sf.bulk.CompletedTrailheadWK__c.insert(data, batch_size=10000,use_serial=True)
