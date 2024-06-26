@@ -18,7 +18,7 @@ class Scraping(ScrapingUtil):
         self.terminate_existing_chrome_processes()
         self.options = self.configure_chrome_options()
         self.driver = driver or webdriver.Chrome(options=self.options)
-        self.now = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.000+9000")
+        self.now = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.000")
         self.salesforce_now = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M")
         self.wait = WebDriverWait(self.driver, 10)
         self.trailhead_dict = self.create_dict_from_csv(trailblazerProfile_scraping_prop.input_trailhead_file, 0)
