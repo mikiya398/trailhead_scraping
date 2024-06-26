@@ -16,3 +16,6 @@ def upsert():
         data = json.load(file)
         
     sf.bulk.CompletedTrailheadWK__c.upsert(data,'ForeignKey__c',batch_size=1000,use_serial=True)
+
+if __name__ == "__main__":
+    upsert()
