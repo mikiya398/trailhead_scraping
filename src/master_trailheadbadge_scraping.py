@@ -217,8 +217,8 @@ class Scraping(ScrapingUtil):
                 except Exception as e:
                     print(f"Error scraping Trailblazer ID {futures[future]}: {e}")
 
-        self.save_json(badge_dict_list, 'CompletedTrailheadWK__c_' + str(self.now))
-        self.save_json(certification_dict_list, 'certification_' + str(self.now))
+        self.save_json(badge_dict_list, 'CompletedTrailheadWK__c_')
+        self.save_json(certification_dict_list, 'certification_')
 
     def scrape_trailblazer(self, trailblazerId):
         self.access_page(trailblazerProfile_scraping_prop.trailblazer_url + trailblazerId)

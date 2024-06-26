@@ -14,4 +14,4 @@ sf = Salesforce(username=USERNAME, password=PASSWORD, security_token=TOKEN)
 with open('./data/output/CompletedTrailheadWK__c_2024-06-26T11-04 copy.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
     
-sf.bulk.CompletedTrailheadWK__c.insert(data, batch_size=1000,use_serial=True)
+sf.bulk.CompletedTrailheadWK__c.upsert(data,'ForeignKey__c',batch_size=1000,use_serial=True)
