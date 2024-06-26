@@ -1,0 +1,2378 @@
+[
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/ayakot_modules_competitor-tracking-in-salesforce",
+        "TrailheadCode__c": "modules_competitor-tracking-in-salesforce",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/ayakot",
+        "TrailheadName__c": "Salesforce での競合他社追跡",
+        "ClearedOrder__c": 11,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:13.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/ayakot_modules_sales-cloud-configuration-basics",
+        "TrailheadCode__c": "modules_sales-cloud-configuration-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/ayakot",
+        "TrailheadName__c": "Sales Cloud の基本",
+        "ClearedOrder__c": 10,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:13.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/ayakot_modules_sales-cloud-rollout-strategy",
+        "TrailheadCode__c": "modules_sales-cloud-rollout-strategy",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/ayakot",
+        "TrailheadName__c": "Sales Cloud のロールアウト戦略",
+        "ClearedOrder__c": 9,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:13.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/ayakot_modules_sales-cloud-platform-quick-look",
+        "TrailheadCode__c": "modules_sales-cloud-platform-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/ayakot",
+        "TrailheadName__c": "Sales Cloud の基本",
+        "ClearedOrder__c": 8,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:13.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/ayakot_modules_starting_force_com",
+        "TrailheadCode__c": "modules_starting_force_com",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/ayakot",
+        "TrailheadName__c": "Salesforce Platform の基礎",
+        "ClearedOrder__c": 7,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:13.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/ayakot_projects_automate-business-processes-recruiting-app",
+        "TrailheadCode__c": "projects_automate-business-processes-recruiting-app",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/ayakot",
+        "TrailheadName__c": "社員募集アプリケーション用のビジネスプロセスの自動化",
+        "ClearedOrder__c": 6,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:13.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/ayakot_projects_keep-data-secure-in-a-recruiting-app",
+        "TrailheadCode__c": "projects_keep-data-secure-in-a-recruiting-app",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/ayakot",
+        "TrailheadName__c": "社員募集アプリケーションのデータセキュリティの維持",
+        "ClearedOrder__c": 5,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:13.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/ayakot_projects_improve-data-quality-for-a-recruiting-app",
+        "TrailheadCode__c": "projects_improve-data-quality-for-a-recruiting-app",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/ayakot",
+        "TrailheadName__c": "社員募集アプリケーションのデータ品質の向上",
+        "ClearedOrder__c": 4,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:13.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/ayakot_projects_customize-the-ui-for-a-recruiting-app",
+        "TrailheadCode__c": "projects_customize-the-ui-for-a-recruiting-app",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/ayakot",
+        "TrailheadName__c": "社員募集アプリケーションのユーザーインターフェースのカスタマイズ",
+        "ClearedOrder__c": 3,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:13.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/ayakot_projects_build-a-data-model-for-a-recruiting-app",
+        "TrailheadCode__c": "projects_build-a-data-model-for-a-recruiting-app",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/ayakot",
+        "TrailheadName__c": "社員募集アプリケーション用のデータモデルの作成",
+        "ClearedOrder__c": 2,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:13.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/ayakot_modules_trailhead_basics",
+        "TrailheadCode__c": "modules_trailhead_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/ayakot",
+        "TrailheadName__c": "Trailhead のガイド",
+        "ClearedOrder__c": 1,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:13.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_superbadges_superbadge-user-authentication-settings",
+        "TrailheadCode__c": "superbadges_superbadge-user-authentication-settings",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "User Authentication Settings Superbadge Unit",
+        "ClearedOrder__c": 61,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_identity_login",
+        "TrailheadCode__c": "modules_identity_login",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "ユーザー認証",
+        "ClearedOrder__c": 60,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_superbadges_superbadge-lex-rd",
+        "TrailheadCode__c": "superbadges_superbadge-lex-rd",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Lightning Experience Reports & Dashboards Specialist",
+        "ClearedOrder__c": 59,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_quickstart-app-builder",
+        "TrailheadCode__c": "projects_quickstart-app-builder",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "クイックスタート: Lightning アプリケーションビルダー",
+        "ClearedOrder__c": 58,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_superbadges_superbadge_business_specialist",
+        "TrailheadCode__c": "superbadges_superbadge_business_specialist",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Business Administration Specialist",
+        "ClearedOrder__c": 57,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_appexchange_basics",
+        "TrailheadCode__c": "modules_appexchange_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "AppExchange の基本",
+        "ClearedOrder__c": 56,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_service_lightning_flow_for_service",
+        "TrailheadCode__c": "modules_service_lightning_flow_for_service",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "サービスの Salesforce フロー",
+        "ClearedOrder__c": 55,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_service-cloud-agent-productivity",
+        "TrailheadCode__c": "modules_service-cloud-agent-productivity",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Service Cloud エージェントの生産性",
+        "ClearedOrder__c": 54,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_lightning-knowledge-basics",
+        "TrailheadCode__c": "modules_lightning-knowledge-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Lightning Experience のナレッジの基本",
+        "ClearedOrder__c": 53,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_omni-channel-lex",
+        "TrailheadCode__c": "modules_omni-channel-lex",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Lightning Experience のオムニチャネル",
+        "ClearedOrder__c": 52,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_entitlement-management-for-lightning-experience",
+        "TrailheadCode__c": "modules_entitlement-management-for-lightning-experience",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Lightning Experience の エンタイトルメント管理",
+        "ClearedOrder__c": 51,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_sales_admin_duplicate_management",
+        "TrailheadCode__c": "modules_sales_admin_duplicate_management",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "重複管理",
+        "ClearedOrder__c": 50,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_lex_implementation_reports_dashboards",
+        "TrailheadCode__c": "modules_lex_implementation_reports_dashboards",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Lightning Experience のレポートおよびダッシュボード",
+        "ClearedOrder__c": 49,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_service-cloud-agent-experience",
+        "TrailheadCode__c": "modules_service-cloud-agent-experience",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Service Cloud のエージェントエクスペリエンス",
+        "ClearedOrder__c": 48,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_customer-service-incident-management-quick-look",
+        "TrailheadCode__c": "modules_customer-service-incident-management-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "カスタマーサービスインシデント管理: クイックルック",
+        "ClearedOrder__c": 47,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_service-setup-assistant-quick-look",
+        "TrailheadCode__c": "modules_service-setup-assistant-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Service 設定アシスタント: クイックルック",
+        "ClearedOrder__c": 46,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_servicecloud-quick-look",
+        "TrailheadCode__c": "modules_servicecloud-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Salesforce を活用したカスタマーサービス: クイックルック",
+        "ClearedOrder__c": 45,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_sales-deal-acceleration",
+        "TrailheadCode__c": "modules_sales-deal-acceleration",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "商談の促進",
+        "ClearedOrder__c": 44,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_sales-activity-analysis",
+        "TrailheadCode__c": "modules_sales-activity-analysis",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "営業パフォーマンス分析",
+        "ClearedOrder__c": 43,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_competitor-tracking-in-salesforce",
+        "TrailheadCode__c": "modules_competitor-tracking-in-salesforce",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Salesforce での競合他社追跡",
+        "ClearedOrder__c": 42,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_sales-cloud-configuration-basics",
+        "TrailheadCode__c": "modules_sales-cloud-configuration-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Sales Cloud の基本",
+        "ClearedOrder__c": 41,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_sales-cloud-rollout-strategy",
+        "TrailheadCode__c": "modules_sales-cloud-rollout-strategy",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Sales Cloud のロールアウト戦略",
+        "ClearedOrder__c": 40,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_lead-to-cash-sales-features",
+        "TrailheadCode__c": "modules_lead-to-cash-sales-features",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "リード創出から収益実現までのセールス機能",
+        "ClearedOrder__c": 39,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_sales-cloud-platform-quick-look",
+        "TrailheadCode__c": "modules_sales-cloud-platform-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Sales Cloud の基本",
+        "ClearedOrder__c": 38,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_credential-security",
+        "TrailheadCode__c": "modules_credential-security",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "ログイン情報のセキュリティ",
+        "ClearedOrder__c": 37,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_superbadge-cred-security-quick-look",
+        "TrailheadCode__c": "modules_superbadge-cred-security-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Superbadge プログラムのセキュリティ: クイックルック",
+        "ClearedOrder__c": 36,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_flow-basics",
+        "TrailheadCode__c": "modules_flow-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Flow Builder の基本",
+        "ClearedOrder__c": 35,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_build-a-simple-flow",
+        "TrailheadCode__c": "projects_build-a-simple-flow",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "簡単なフローの作成",
+        "ClearedOrder__c": 34,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_build-a-discount-approval-process",
+        "TrailheadCode__c": "projects_build-a-discount-approval-process",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "割引承認プロセスの作成",
+        "ClearedOrder__c": 33,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_lex_implementation_chatter",
+        "TrailheadCode__c": "modules_lex_implementation_chatter",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Lightning Experience の Chatter の管理",
+        "ClearedOrder__c": 32,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_business_process_automation",
+        "TrailheadCode__c": "modules_business_process_automation",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "承認プロセスを使用してレコードを承認する",
+        "ClearedOrder__c": 31,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_create-reports-and-dashboards-for-sales-and-marketing-managers",
+        "TrailheadCode__c": "projects_create-reports-and-dashboards-for-sales-and-marketing-managers",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "営業マネージャーとマーケティングマネージャー用のレポートとダッシュボードの作成",
+        "ClearedOrder__c": 30,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_import-and-export-with-data-management-tools",
+        "TrailheadCode__c": "projects_import-and-export-with-data-management-tools",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "データ管理ツールを使用したインポートとエクスポート",
+        "ClearedOrder__c": 29,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_set-up-case-escalation-entitlements",
+        "TrailheadCode__c": "projects_set-up-case-escalation-entitlements",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Set Up Case Escalation and Entitlements",
+        "ClearedOrder__c": 28,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_create-a-process-for-managing-support-cases",
+        "TrailheadCode__c": "projects_create-a-process-for-managing-support-cases",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "サポートケースを管理するプロセスの作成",
+        "ClearedOrder__c": 27,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_set-up-the-service-console",
+        "TrailheadCode__c": "projects_set-up-the-service-console",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "サービスコンソールの設定",
+        "ClearedOrder__c": 26,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_service_lex",
+        "TrailheadCode__c": "modules_service_lex",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Lightning Experience の Service Cloud",
+        "ClearedOrder__c": 25,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_customize-a-sales-path-for-your-team",
+        "TrailheadCode__c": "projects_customize-a-sales-path-for-your-team",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "チームのセールスパスのカスタマイズ",
+        "ClearedOrder__c": 24,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_keep-data-secure-in-a-recruiting-app",
+        "TrailheadCode__c": "projects_keep-data-secure-in-a-recruiting-app",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "社員募集アプリケーションのデータセキュリティの維持",
+        "ClearedOrder__c": 23,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_improve-data-quality-for-a-recruiting-app",
+        "TrailheadCode__c": "projects_improve-data-quality-for-a-recruiting-app",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "社員募集アプリケーションのデータ品質の向上",
+        "ClearedOrder__c": 22,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_customize-the-ui-for-a-recruiting-app",
+        "TrailheadCode__c": "projects_customize-the-ui-for-a-recruiting-app",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "社員募集アプリケーションのユーザーインターフェースのカスタマイズ",
+        "ClearedOrder__c": 21,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_campaign_basics",
+        "TrailheadCode__c": "modules_campaign_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "キャンペーンの基本",
+        "ClearedOrder__c": 20,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_sales_admin_products_quotes_contracts",
+        "TrailheadCode__c": "modules_sales_admin_products_quotes_contracts",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "商品、見積、契約",
+        "ClearedOrder__c": 19,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_leads_opportunities_lightning_experience",
+        "TrailheadCode__c": "modules_leads_opportunities_lightning_experience",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "リードと商談",
+        "ClearedOrder__c": 18,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_accounts_contacts_lightning_experience",
+        "TrailheadCode__c": "modules_accounts_contacts_lightning_experience",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "取引先と取引先責任者",
+        "ClearedOrder__c": 17,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_build-a-data-model-for-a-recruiting-app",
+        "TrailheadCode__c": "projects_build-a-data-model-for-a-recruiting-app",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "社員募集アプリケーション用のデータモデルの作成",
+        "ClearedOrder__c": 16,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_point_click_business_logic",
+        "TrailheadCode__c": "modules_point_click_business_logic",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "数式と入力規則",
+        "ClearedOrder__c": 15,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_lightning_app_builder",
+        "TrailheadCode__c": "modules_lightning_app_builder",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Lightning アプリケーションビルダー",
+        "ClearedOrder__c": 14,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_user-engagement",
+        "TrailheadCode__c": "modules_user-engagement",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "ユーザーエンゲージメント",
+        "ClearedOrder__c": 13,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_lex_customization",
+        "TrailheadCode__c": "modules_lex_customization",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Lightning Experience のカスタマイズ",
+        "ClearedOrder__c": 12,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_lex_implementation_data_management",
+        "TrailheadCode__c": "modules_lex_implementation_data_management",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "データ管理",
+        "ClearedOrder__c": 11,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_customize-a-salesforce-object",
+        "TrailheadCode__c": "projects_customize-a-salesforce-object",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Salesforce オブジェクトをカスタマイズする",
+        "ClearedOrder__c": 10,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_data_modeling",
+        "TrailheadCode__c": "modules_data_modeling",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "データモデリング",
+        "ClearedOrder__c": 9,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_data_security",
+        "TrailheadCode__c": "modules_data_security",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "データセキュリティ",
+        "ClearedOrder__c": 8,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_protect-your-data-in-salesforce",
+        "TrailheadCode__c": "projects_protect-your-data-in-salesforce",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Salesforce のデータの保護",
+        "ClearedOrder__c": 7,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_permission-set-groups",
+        "TrailheadCode__c": "modules_permission-set-groups",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "権限セットグループ",
+        "ClearedOrder__c": 6,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_identity_basics",
+        "TrailheadCode__c": "modules_identity_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Identity の基本",
+        "ClearedOrder__c": 5,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_customize-an-org-to-support-a-new-business-unit",
+        "TrailheadCode__c": "projects_customize-an-org-to-support-a-new-business-unit",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "組織をカスタマイズして新規ビジネスユニットをサポート",
+        "ClearedOrder__c": 4,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_lex_implementation_user_setup_mgmt",
+        "TrailheadCode__c": "modules_lex_implementation_user_setup_mgmt",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "ユーザー管理",
+        "ClearedOrder__c": 3,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_projects_prepare-your-salesforce-org-for-users",
+        "TrailheadCode__c": "projects_prepare-your-salesforce-org-for-users",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "ユーザー向けの Salesforce 組織の準備",
+        "ClearedOrder__c": 2,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd_modules_starting_force_com",
+        "TrailheadCode__c": "modules_starting_force_com",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mviuh8g3c09krggjnd",
+        "TrailheadName__c": "Salesforce Platform の基礎",
+        "ClearedOrder__c": 1,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:33.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_superbadges_superbadge_lwc_specialist",
+        "TrailheadCode__c": "superbadges_superbadge_lwc_specialist",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Web Components Specialist",
+        "ClearedOrder__c": 244,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_data-fundamentals-for-ai",
+        "TrailheadCode__c": "modules_data-fundamentals-for-ai",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "AI におけるデータの基礎",
+        "ClearedOrder__c": 243,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_generative-ai-basics",
+        "TrailheadCode__c": "modules_generative-ai-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "生成 AI の基本",
+        "ClearedOrder__c": 242,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_quickstart-lightning-components",
+        "TrailheadCode__c": "projects_quickstart-lightning-components",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "クイックスタート: Aura コンポーネント",
+        "ClearedOrder__c": 241,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_coding-for-web-accessibility",
+        "TrailheadCode__c": "modules_coding-for-web-accessibility",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Web アクセシビリティのコーディング",
+        "ClearedOrder__c": 240,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_quick-start-salesforce-dx",
+        "TrailheadCode__c": "projects_quick-start-salesforce-dx",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "クイックスタート: Salesforce DX",
+        "ClearedOrder__c": 239,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lightning-design-system-basics",
+        "TrailheadCode__c": "modules_lightning-design-system-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Design System の基本",
+        "ClearedOrder__c": 238,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lwc-for-visualforce-developers",
+        "TrailheadCode__c": "modules_lwc-for-visualforce-developers",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Web Components for Visualforce Developers",
+        "ClearedOrder__c": 237,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lwc-troubleshooting",
+        "TrailheadCode__c": "modules_lwc-troubleshooting",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Web Component Troubleshooting",
+        "ClearedOrder__c": 236,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_communicate-between-lightning-web-components",
+        "TrailheadCode__c": "projects_communicate-between-lightning-web-components",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Communicate Between Lightning Web Components",
+        "ClearedOrder__c": 235,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_lwc-build-flexible-apps",
+        "TrailheadCode__c": "projects_lwc-build-flexible-apps",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Web コンポーネントを使用した熊追跡アプリケーションの作成",
+        "ClearedOrder__c": 234,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lightning-web-components-for-aura-developers",
+        "TrailheadCode__c": "modules_lightning-web-components-for-aura-developers",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Aura 開発者向け Lightning Web コンポーネント",
+        "ClearedOrder__c": 233,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_test-lightning-web-components",
+        "TrailheadCode__c": "modules_test-lightning-web-components",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Web コンポーネントのテスト",
+        "ClearedOrder__c": 232,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_trailhead_playground_management",
+        "TrailheadCode__c": "modules_trailhead_playground_management",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Trailhead Playground の管理",
+        "ClearedOrder__c": 231,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lightning-web-components-and-salesforce-data",
+        "TrailheadCode__c": "modules_lightning-web-components-and-salesforce-data",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Web コンポーネントと Salesforce データ",
+        "ClearedOrder__c": 230,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_set-up-your-salesforce-mobile-developer-tools-for-lightning-web-components",
+        "TrailheadCode__c": "projects_set-up-your-salesforce-mobile-developer-tools-for-lightning-web-components",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Set Up Your Salesforce Mobile Developer Tools for Lightning Web Components",
+        "ClearedOrder__c": 229,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lightning-web-components-basics",
+        "TrailheadCode__c": "modules_lightning-web-components-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Web コンポーネントの基本",
+        "ClearedOrder__c": 228,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_modern-javascript-development",
+        "TrailheadCode__c": "modules_modern-javascript-development",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Get Started with Modern JavaScript Development",
+        "ClearedOrder__c": 227,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_set-up-salesforce-knowledge",
+        "TrailheadCode__c": "projects_set-up-salesforce-knowledge",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce ナレッジの設定",
+        "ClearedOrder__c": 226,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_sf_cpq",
+        "TrailheadCode__c": "modules_sf_cpq",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce CPQ の基本",
+        "ClearedOrder__c": 225,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_experience-cloud-site-strategy",
+        "TrailheadCode__c": "modules_experience-cloud-site-strategy",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Experience Cloud Site Strategy",
+        "ClearedOrder__c": 224,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_administrator-certification-maintenance-spring-23",
+        "TrailheadCode__c": "modules_administrator-certification-maintenance-spring-23",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "認定アドミニストレーター資格の更新 (Spring '23)",
+        "ClearedOrder__c": 223,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_quick-start-tour-the-sample-app-gallery",
+        "TrailheadCode__c": "projects_quick-start-tour-the-sample-app-gallery",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "クイックスタート: サンプルアプリケーションギャラリーのツアー",
+        "ClearedOrder__c": 222,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_get-started-with-salesforce-development",
+        "TrailheadCode__c": "projects_get-started-with-salesforce-development",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "はじめての Salesforce 開発",
+        "ClearedOrder__c": 221,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_ux-basics",
+        "TrailheadCode__c": "modules_ux-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "User Experience Basics",
+        "ClearedOrder__c": 220,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_ux-research-basics",
+        "TrailheadCode__c": "modules_ux-research-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "UX Research Basics (ユーザーエクスペリエンス調査の基本)",
+        "ClearedOrder__c": 219,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_large-data-volumes",
+        "TrailheadCode__c": "modules_large-data-volumes",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "大量データ",
+        "ClearedOrder__c": 218,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_custom_metadata_types_dec",
+        "TrailheadCode__c": "modules_custom_metadata_types_dec",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Custom Metadata Types Basics",
+        "ClearedOrder__c": 217,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_platform-developer-i-certification-prep-testing-debugging-and-deployment",
+        "TrailheadCode__c": "modules_platform-developer-i-certification-prep-testing-debugging-and-deployment",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "認定の準備: Platform デベロッパー: テスト、デバッグ、リリース",
+        "ClearedOrder__c": 216,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_find-and-fix-bugs-with-apex-replay-debugger",
+        "TrailheadCode__c": "projects_find-and-fix-bugs-with-apex-replay-debugger",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Find and Fix Bugs with Apex Replay Debugger",
+        "ClearedOrder__c": 215,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_cli-basics",
+        "TrailheadCode__c": "modules_cli-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "コマンド-ラインインターフェース",
+        "ClearedOrder__c": 214,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_javascript-essentials-salesforce-developers",
+        "TrailheadCode__c": "modules_javascript-essentials-salesforce-developers",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce 開発者の JavaScript スキル",
+        "ClearedOrder__c": 213,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-cloud-contact-management",
+        "TrailheadCode__c": "modules_marketing-cloud-contact-management",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement 連絡先管理",
+        "ClearedOrder__c": 212,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_record-triggered-flows",
+        "TrailheadCode__c": "modules_record-triggered-flows",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "レコードトリガーフロー",
+        "ClearedOrder__c": 211,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_apex_basics_dotnet",
+        "TrailheadCode__c": "modules_apex_basics_dotnet",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Apex と .NET の基本",
+        "ClearedOrder__c": 210,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_database_basics_dotnet",
+        "TrailheadCode__c": "modules_database_basics_dotnet",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "データベースと .NET の基本",
+        "ClearedOrder__c": 209,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_quickstart-apex",
+        "TrailheadCode__c": "projects_quickstart-apex",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "クイックスタート: Apex",
+        "ClearedOrder__c": 208,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_set-up-your-lightning-web-components-developer-tools",
+        "TrailheadCode__c": "projects_set-up-your-lightning-web-components-developer-tools",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Web コンポーネント開発者ツールの設定",
+        "ClearedOrder__c": 207,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_platform-developer-i-certification-prep-user-interfaces",
+        "TrailheadCode__c": "modules_platform-developer-i-certification-prep-user-interfaces",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "認定の準備: Platform デベロッパー: ユーザーインターフェース",
+        "ClearedOrder__c": 206,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_data-and-actions-in-flows",
+        "TrailheadCode__c": "modules_data-and-actions-in-flows",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "フローのデータとアクション",
+        "ClearedOrder__c": 204,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_session_based_perms",
+        "TrailheadCode__c": "modules_session_based_perms",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "セッションベースの権限セットとセキュリティ",
+        "ClearedOrder__c": 203,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_the-insurance-industry",
+        "TrailheadCode__c": "modules_the-insurance-industry",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "保険業界",
+        "ClearedOrder__c": 202,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_web3-the-future-of-the-internet",
+        "TrailheadCode__c": "modules_web3-the-future-of-the-internet",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Web3: これからのインターネット",
+        "ClearedOrder__c": 201,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_climate-action-plan-quick-look",
+        "TrailheadCode__c": "modules_climate-action-plan-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Net Zero Now の戦略: クイックルック",
+        "ClearedOrder__c": 200,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_git-and-git-hub-basics",
+        "TrailheadCode__c": "modules_git-and-git-hub-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Git と GitHub の基本",
+        "ClearedOrder__c": 199,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_platform-developer-i-certification-prep-logic-and-process-automation",
+        "TrailheadCode__c": "modules_platform-developer-i-certification-prep-logic-and-process-automation",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "認定の準備: Platform デベロッパー: プロセスの自動化とロジック",
+        "ClearedOrder__c": 198,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_platform-developer-i-certification-prep-fundamentals-and-database-modeling",
+        "TrailheadCode__c": "modules_platform-developer-i-certification-prep-fundamentals-and-database-modeling",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "認定の準備: Platform デベロッパー: 開発者の基本事項",
+        "ClearedOrder__c": 197,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_user-story-creation",
+        "TrailheadCode__c": "modules_user-story-creation",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "ユーザーストーリーの作成",
+        "ClearedOrder__c": 196,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_scrum-and-kanban-at-salesforce",
+        "TrailheadCode__c": "modules_scrum-and-kanban-at-salesforce",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce でのスクラムと Kanban",
+        "ClearedOrder__c": 195,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_salesforce-agile-basics",
+        "TrailheadCode__c": "modules_salesforce-agile-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce のアジャイルの基礎",
+        "ClearedOrder__c": 193,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_external-services",
+        "TrailheadCode__c": "modules_external-services",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "外部サービス",
+        "ClearedOrder__c": 191,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_spe_admins",
+        "TrailheadCode__c": "modules_spe_admins",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Shield Platform Encryption",
+        "ClearedOrder__c": 190,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_realtime-event-monitoring",
+        "TrailheadCode__c": "modules_realtime-event-monitoring",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "リアルタイムイベントモニタリング",
+        "ClearedOrder__c": 189,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_enhanced_transaction_security",
+        "TrailheadCode__c": "modules_enhanced_transaction_security",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "拡張トランザクションセキュリティ",
+        "ClearedOrder__c": 187,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service-cloud-rollout-strategy",
+        "TrailheadCode__c": "modules_service-cloud-rollout-strategy",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Service Cloud のロールアウト計画",
+        "ClearedOrder__c": 186,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-cloud-programmatic-languages",
+        "TrailheadCode__c": "modules_marketing-cloud-programmatic-languages",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement のプログラミング言語",
+        "ClearedOrder__c": 185,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_journey-prioritization-strategies",
+        "TrailheadCode__c": "modules_journey-prioritization-strategies",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Journey Prioritization Strategies",
+        "ClearedOrder__c": 184,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_campaign-optimization-for-marketers",
+        "TrailheadCode__c": "modules_campaign-optimization-for-marketers",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "マーケター向けのキャンペーンの最適化",
+        "ClearedOrder__c": 183,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_behavioral-triggers-in-journey-builder",
+        "TrailheadCode__c": "modules_behavioral-triggers-in-journey-builder",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Behavioral Triggers in Journey Builder",
+        "ClearedOrder__c": 182,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_journey-campaign-analytics-and-optimization",
+        "TrailheadCode__c": "modules_journey-campaign-analytics-and-optimization",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "ジャーニーキャンペーンの分析と最適化",
+        "ClearedOrder__c": 181,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_path-optimizer-in-journey-builder",
+        "TrailheadCode__c": "modules_path-optimizer-in-journey-builder",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Journey Builder のパスオプティマイザー",
+        "ClearedOrder__c": 180,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_journey-builder-campaigns",
+        "TrailheadCode__c": "modules_journey-builder-campaigns",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Journey Builder キャンペーン",
+        "ClearedOrder__c": 179,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_quick-start-create-and-send-a-message-in-journey-builder",
+        "TrailheadCode__c": "modules_quick-start-create-and-send-a-message-in-journey-builder",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "クイックスタート: Journey Builder でメッセージを作成して送信する",
+        "ClearedOrder__c": 178,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_journey-builder-basics",
+        "TrailheadCode__c": "modules_journey-builder-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Journey Builder の基本",
+        "ClearedOrder__c": 177,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_email-deliverability-concepts",
+        "TrailheadCode__c": "modules_email-deliverability-concepts",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "メール配信到達性の概念",
+        "ClearedOrder__c": 176,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_advanced-customer-journeys",
+        "TrailheadCode__c": "modules_advanced-customer-journeys",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "高度なカスタマージャーニー",
+        "ClearedOrder__c": 175,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_custom-preference-center-development",
+        "TrailheadCode__c": "modules_custom-preference-center-development",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Custom Preference Center Development",
+        "ClearedOrder__c": 174,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_digital-marketing-roadmap-development",
+        "TrailheadCode__c": "modules_digital-marketing-roadmap-development",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "デジタルマーケティングのロードマップの作成",
+        "ClearedOrder__c": 173,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_omni-channel-digital-marketing-quick-look",
+        "TrailheadCode__c": "modules_omni-channel-digital-marketing-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "オムニチャネルデジタルマーケティング: クイックルック",
+        "ClearedOrder__c": 172,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_personalized-email-marketing",
+        "TrailheadCode__c": "modules_personalized-email-marketing",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "パーソナライズされたメールマーケティング",
+        "ClearedOrder__c": 171,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_ampscript-for-nondevelopers",
+        "TrailheadCode__c": "modules_ampscript-for-nondevelopers",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "マーケターのための AMPscript",
+        "ClearedOrder__c": 170,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_contact-deletion-in-marketing-cloud",
+        "TrailheadCode__c": "modules_contact-deletion-in-marketing-cloud",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement での連絡先の削除",
+        "ClearedOrder__c": 169,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_interactive-content-using-amp-for-email",
+        "TrailheadCode__c": "modules_interactive-content-using-amp-for-email",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Interactive Content Using AMP for Email",
+        "ClearedOrder__c": 168,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_custom-activities-in-journey-builder",
+        "TrailheadCode__c": "modules_custom-activities-in-journey-builder",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Journey Builder のカスタムアクティビティ",
+        "ClearedOrder__c": 167,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_automation-studio-activities",
+        "TrailheadCode__c": "modules_automation-studio-activities",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Automation Studio Activities",
+        "ClearedOrder__c": 166,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_content-builder-block-sdk",
+        "TrailheadCode__c": "modules_content-builder-block-sdk",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Content Builder Block SDK",
+        "ClearedOrder__c": 165,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_content-builder-basics",
+        "TrailheadCode__c": "modules_content-builder-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Content Builder の基本",
+        "ClearedOrder__c": 164,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-content-creation",
+        "TrailheadCode__c": "modules_marketing-content-creation",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "マーケティングコンテンツの作成",
+        "ClearedOrder__c": 163,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_data-and-identity-in-salesforce-cdp",
+        "TrailheadCode__c": "modules_data-and-identity-in-salesforce-cdp",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Data Cloud のデータと ID",
+        "ClearedOrder__c": 162,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-cloud-releases",
+        "TrailheadCode__c": "modules_marketing-cloud-releases",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement Release Readiness",
+        "ClearedOrder__c": 161,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-cloud-roles-and-permissions-quick-look",
+        "TrailheadCode__c": "modules_marketing-cloud-roles-and-permissions-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement のロールと権限: クイックルック",
+        "ClearedOrder__c": 160,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-cloud-resources",
+        "TrailheadCode__c": "modules_marketing-cloud-resources",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement Resources",
+        "ClearedOrder__c": 159,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_roles-and-responsibilities-for-marketing-teams",
+        "TrailheadCode__c": "modules_roles-and-responsibilities-for-marketing-teams",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Roles and Responsibilities for Marketing Teams",
+        "ClearedOrder__c": 158,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_customer-360-audiences-basics",
+        "TrailheadCode__c": "modules_customer-360-audiences-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Data Cloud for Marketing の基本",
+        "ClearedOrder__c": 157,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_customer-data-platform-strategy",
+        "TrailheadCode__c": "modules_customer-data-platform-strategy",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "カスタマーデータプラットフォーム戦略",
+        "ClearedOrder__c": 156,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_data-architecture-planning",
+        "TrailheadCode__c": "modules_data-architecture-planning",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "お客様中心のデータ戦略",
+        "ClearedOrder__c": 155,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_mrkt_cloud_studios_builders",
+        "TrailheadCode__c": "modules_mrkt_cloud_studios_builders",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement 製品",
+        "ClearedOrder__c": 154,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_customer-data-management-modern-marketers",
+        "TrailheadCode__c": "modules_customer-data-management-modern-marketers",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "マーケティング担当者のための顧客データ",
+        "ClearedOrder__c": 153,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-intelligence-and-analytics",
+        "TrailheadCode__c": "modules_marketing-intelligence-and-analytics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "マーケティングインテリジェンスと分析",
+        "ClearedOrder__c": 152,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_consumer-interaction-management",
+        "TrailheadCode__c": "modules_consumer-interaction-management",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "コンシューマーのインタラクション管理",
+        "ClearedOrder__c": 151,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_digital-advertising-with-customer-data",
+        "TrailheadCode__c": "modules_digital-advertising-with-customer-data",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "顧客データによるデジタル広告の変革",
+        "ClearedOrder__c": 149,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-automation-strategies",
+        "TrailheadCode__c": "modules_marketing-automation-strategies",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "マーケティングオートメーション戦略",
+        "ClearedOrder__c": 148,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-cloud-security",
+        "TrailheadCode__c": "modules_marketing-cloud-security",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement セキュリティ",
+        "ClearedOrder__c": 147,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_mr-email-marketing-strategies",
+        "TrailheadCode__c": "modules_mr-email-marketing-strategies",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "メールマーケティング戦略",
+        "ClearedOrder__c": 146,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_transactional-messaging",
+        "TrailheadCode__c": "modules_transactional-messaging",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Transactional メッセージング",
+        "ClearedOrder__c": 145,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_email-creation-and-sending",
+        "TrailheadCode__c": "modules_email-creation-and-sending",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "メールの作成と送信",
+        "ClearedOrder__c": 144,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_quick-start-create-and-send-an-email-with-marketing-cloud",
+        "TrailheadCode__c": "modules_quick-start-create-and-send-an-email-with-marketing-cloud",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "クイックスタート: Marketing Cloud Engagement を使用したメールの作成と送信",
+        "ClearedOrder__c": 143,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_email-studio-basics",
+        "TrailheadCode__c": "modules_email-studio-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Email Studio の基本",
+        "ClearedOrder__c": 142,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-cloud-setup",
+        "TrailheadCode__c": "modules_marketing-cloud-setup",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement 設定",
+        "ClearedOrder__c": 141,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_european-union-privacy-law-basics",
+        "TrailheadCode__c": "modules_european-union-privacy-law-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "EU のプライバシー法の基本",
+        "ClearedOrder__c": 140,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_mc_trust",
+        "TrailheadCode__c": "modules_mc_trust",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement Trust サイト",
+        "ClearedOrder__c": 139,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-cloud-connect",
+        "TrailheadCode__c": "modules_marketing-cloud-connect",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Connect の設定",
+        "ClearedOrder__c": 138,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_audience-segmentation",
+        "TrailheadCode__c": "modules_audience-segmentation",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "オーディエンスセグメンテーション",
+        "ClearedOrder__c": 137,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_customer-journey-basics",
+        "TrailheadCode__c": "modules_customer-journey-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "カスタマージャーニーの基本",
+        "ClearedOrder__c": 136,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_salesforce_heroku_integration",
+        "TrailheadCode__c": "modules_salesforce_heroku_integration",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce と Heroku のインテグレーション",
+        "ClearedOrder__c": 133,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_heroku-flow",
+        "TrailheadCode__c": "modules_heroku-flow",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "ライフサイクル管理のための Heroku Flow",
+        "ClearedOrder__c": 132,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_heroku_enterprise_baiscs",
+        "TrailheadCode__c": "modules_heroku_enterprise_baiscs",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Heroku Enterprise の基礎",
+        "ClearedOrder__c": 131,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_picklist_admin",
+        "TrailheadCode__c": "modules_picklist_admin",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "選択リスト管理",
+        "ClearedOrder__c": 130,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lightning-knowledge-setup-and-customization",
+        "TrailheadCode__c": "modules_lightning-knowledge-setup-and-customization",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Knowledge の設定とカスタマイズ",
+        "ClearedOrder__c": 128,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_mrkt_cloud_basics",
+        "TrailheadCode__c": "modules_mrkt_cloud_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement の基本",
+        "ClearedOrder__c": 127,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_marketing-cloud-quick-look",
+        "TrailheadCode__c": "modules_marketing-cloud-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Marketing Cloud Engagement: クイックルック",
+        "ClearedOrder__c": 126,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_reports-dashboards-quick-look",
+        "TrailheadCode__c": "modules_reports-dashboards-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "レポートとダッシュボード: クイックルック",
+        "ClearedOrder__c": 125,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_security_basics",
+        "TrailheadCode__c": "modules_security_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "セキュリティの基本",
+        "ClearedOrder__c": 124,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_data_quality",
+        "TrailheadCode__c": "modules_data_quality",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "データ品質",
+        "ClearedOrder__c": 123,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_consultants-on-appexchange",
+        "TrailheadCode__c": "modules_consultants-on-appexchange",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "AppExchange のコンサルティングパートナー",
+        "ClearedOrder__c": 122,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_appexchange-solutions",
+        "TrailheadCode__c": "modules_appexchange-solutions",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "AppExchange ソリューション",
+        "ClearedOrder__c": 121,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_salesforce-customer-360",
+        "TrailheadCode__c": "modules_salesforce-customer-360",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce Einstein 1",
+        "ClearedOrder__c": 120,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_big_objects",
+        "TrailheadCode__c": "modules_big_objects",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Big Object の基礎",
+        "ClearedOrder__c": 119,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_platform_cache",
+        "TrailheadCode__c": "modules_platform_cache",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "プラットフォームキャッシュの基礎",
+        "ClearedOrder__c": 118,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_event_monitoring",
+        "TrailheadCode__c": "modules_event_monitoring",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "イベントモニタリング",
+        "ClearedOrder__c": 117,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_org-development-model",
+        "TrailheadCode__c": "modules_org-development-model",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "組織開発モデル",
+        "ClearedOrder__c": 116,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_platform_events_basics",
+        "TrailheadCode__c": "modules_platform_events_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "プラットフォームイベントの基礎",
+        "ClearedOrder__c": 112,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_use-apex-to-automate-business-processes",
+        "TrailheadCode__c": "projects_use-apex-to-automate-business-processes",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Apex を使用してビジネスプロセスを自動化する",
+        "ClearedOrder__c": 111,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_soql-for-admins",
+        "TrailheadCode__c": "modules_soql-for-admins",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "システム管理者のための SOQL",
+        "ClearedOrder__c": 110,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_object-oriented-programming-for-admins",
+        "TrailheadCode__c": "modules_object-oriented-programming-for-admins",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "システム管理者のためのオブジェクト指向プログラミング",
+        "ClearedOrder__c": 109,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_apex-basics-for-admins",
+        "TrailheadCode__c": "modules_apex-basics-for-admins",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "システム管理者のための Apex の基本",
+        "ClearedOrder__c": 108,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_asynchronous_apex",
+        "TrailheadCode__c": "modules_asynchronous_apex",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "非同期 Apex",
+        "ClearedOrder__c": 107,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_apex_integration_services",
+        "TrailheadCode__c": "modules_apex_integration_services",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Apex インテグレーションサービス",
+        "ClearedOrder__c": 106,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_api_basics",
+        "TrailheadCode__c": "modules_api_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "プラットフォーム API の基本",
+        "ClearedOrder__c": 104,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_quick-start-connect-postman-to-salesforce",
+        "TrailheadCode__c": "projects_quick-start-connect-postman-to-salesforce",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Quick Start: Connect Postman to Salesforce",
+        "ClearedOrder__c": 103,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_quick-start-lightning-web-components",
+        "TrailheadCode__c": "projects_quick-start-lightning-web-components",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "クイックスタート: Lightning Web コンポーネント",
+        "ClearedOrder__c": 102,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_search_solution_basics",
+        "TrailheadCode__c": "modules_search_solution_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "検索ソリューションの基礎",
+        "ClearedOrder__c": 101,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_quickstart-vscode-salesforce",
+        "TrailheadCode__c": "projects_quickstart-vscode-salesforce",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "クイックスタート: Salesforce 開発のための Visual Studio Code",
+        "ClearedOrder__c": 100,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_developer_console",
+        "TrailheadCode__c": "modules_developer_console",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "開発者コンソールの基礎",
+        "ClearedOrder__c": 99,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_visualforce_fundamentals",
+        "TrailheadCode__c": "modules_visualforce_fundamentals",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Visualforce の基礎",
+        "ClearedOrder__c": 98,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_apex_testing",
+        "TrailheadCode__c": "modules_apex_testing",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Apex テスト",
+        "ClearedOrder__c": 97,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_apex_triggers",
+        "TrailheadCode__c": "modules_apex_triggers",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Apex トリガー",
+        "ClearedOrder__c": 96,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_apex_database",
+        "TrailheadCode__c": "modules_apex_database",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Apex の基本とデータベース",
+        "ClearedOrder__c": 95,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service_bots_basics",
+        "TrailheadCode__c": "modules_service_bots_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Einstein ボットの基礎",
+        "ClearedOrder__c": 93,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service_call",
+        "TrailheadCode__c": "modules_service_call",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Experience のコールセンターインテグレーション",
+        "ClearedOrder__c": 88,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service-cloud-voice-setup-quick-look",
+        "TrailheadCode__c": "modules_service-cloud-voice-setup-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Service Cloud Voice の設定: クイックルック",
+        "ClearedOrder__c": 87,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service-cloud-voice",
+        "TrailheadCode__c": "modules_service-cloud-voice",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Service Cloud Voice",
+        "ClearedOrder__c": 86,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service_digital_engagement",
+        "TrailheadCode__c": "modules_service_digital_engagement",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "デジタルエンゲージメント",
+        "ClearedOrder__c": 85,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_communities_theme_layout",
+        "TrailheadCode__c": "projects_communities_theme_layout",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Build a Custom Theme Layout Component for Experience Builder Sites",
+        "ClearedOrder__c": 84,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_comm_search_basics",
+        "TrailheadCode__c": "modules_comm_search_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "エクスペリエンスビルダーサイトの検索の基本",
+        "ClearedOrder__c": 83,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_communities_personalize_audiences",
+        "TrailheadCode__c": "projects_communities_personalize_audiences",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "利用者ターゲティングを使用した Experience Cloud サイトのパーソナライズ",
+        "ClearedOrder__c": 82,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_build-a-community-with-knowledge-and-chat",
+        "TrailheadCode__c": "projects_build-a-community-with-knowledge-and-chat",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "ナレッジとチャットを含む Experience Cloud サイトの作成",
+        "ClearedOrder__c": 81,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lex_implementation_basics",
+        "TrailheadCode__c": "modules_lex_implementation_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce CRM",
+        "ClearedOrder__c": 80,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service-cloud-platform-efficiency",
+        "TrailheadCode__c": "modules_service-cloud-platform-efficiency",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Service Cloud の効率性",
+        "ClearedOrder__c": 79,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service-cloud-platform-quick-look",
+        "TrailheadCode__c": "modules_service-cloud-platform-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Service Cloud の基本",
+        "ClearedOrder__c": 78,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_contact-center-transformation",
+        "TrailheadCode__c": "modules_contact-center-transformation",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "コンタクトセンターの変革",
+        "ClearedOrder__c": 77,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_salesforce-surveys-for-admins",
+        "TrailheadCode__c": "modules_salesforce-surveys-for-admins",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "システム管理者向けの Salesforce アンケート",
+        "ClearedOrder__c": 76,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_survey-basics",
+        "TrailheadCode__c": "modules_survey-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "アンケートの基本",
+        "ClearedOrder__c": 75,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_omni-channel-lex",
+        "TrailheadCode__c": "modules_omni-channel-lex",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Experience のオムニチャネル",
+        "ClearedOrder__c": 74,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_entitlement-management-for-lightning-experience",
+        "TrailheadCode__c": "modules_entitlement-management-for-lightning-experience",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Experience の エンタイトルメント管理",
+        "ClearedOrder__c": 73,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service_metrics",
+        "TrailheadCode__c": "modules_service_metrics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "サービス総計値",
+        "ClearedOrder__c": 72,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service_lightning_flow_for_service",
+        "TrailheadCode__c": "modules_service_lightning_flow_for_service",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "サービスの Salesforce フロー",
+        "ClearedOrder__c": 71,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service-cloud-agent-productivity",
+        "TrailheadCode__c": "modules_service-cloud-agent-productivity",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Service Cloud エージェントの生産性",
+        "ClearedOrder__c": 70,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service-cloud-agent-experience",
+        "TrailheadCode__c": "modules_service-cloud-agent-experience",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Service Cloud のエージェントエクスペリエンス",
+        "ClearedOrder__c": 69,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_customer-service-incident-management-quick-look",
+        "TrailheadCode__c": "modules_customer-service-incident-management-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "カスタマーサービスインシデント管理: クイックルック",
+        "ClearedOrder__c": 68,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service-setup-assistant-quick-look",
+        "TrailheadCode__c": "modules_service-setup-assistant-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Service 設定アシスタント: クイックルック",
+        "ClearedOrder__c": 67,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_servicecloud-quick-look",
+        "TrailheadCode__c": "modules_servicecloud-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce を活用したカスタマーサービス: クイックルック",
+        "ClearedOrder__c": 66,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_flow_calculate",
+        "TrailheadCode__c": "projects_flow_calculate",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "割引計算機能の構築",
+        "ClearedOrder__c": 65,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_screen_flow_distribution",
+        "TrailheadCode__c": "modules_screen_flow_distribution",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "画面フローの配布",
+        "ClearedOrder__c": 64,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_flow-basics",
+        "TrailheadCode__c": "modules_flow-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Flow Builder の基本",
+        "ClearedOrder__c": 63,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lightning-dialer-basics",
+        "TrailheadCode__c": "modules_lightning-dialer-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Sales Dialer",
+        "ClearedOrder__c": 62,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_ai_sales",
+        "TrailheadCode__c": "modules_ai_sales",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Sales Cloud Einstein",
+        "ClearedOrder__c": 61,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_sales_admin_maximize_productivity",
+        "TrailheadCode__c": "modules_sales_admin_maximize_productivity",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "営業の生産性",
+        "ClearedOrder__c": 60,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_sales_admin_optimize_salesforce_for_selling",
+        "TrailheadCode__c": "modules_sales_admin_optimize_salesforce_for_selling",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "パスおよびワークスペース",
+        "ClearedOrder__c": 59,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_sales-deal-acceleration",
+        "TrailheadCode__c": "modules_sales-deal-acceleration",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "商談の促進",
+        "ClearedOrder__c": 58,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_sales-activity-analysis",
+        "TrailheadCode__c": "modules_sales-activity-analysis",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "営業パフォーマンス分析",
+        "ClearedOrder__c": 57,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_competitor-tracking-in-salesforce",
+        "TrailheadCode__c": "modules_competitor-tracking-in-salesforce",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce での競合他社追跡",
+        "ClearedOrder__c": 56,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_sales-cloud-configuration-basics",
+        "TrailheadCode__c": "modules_sales-cloud-configuration-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Sales Cloud の基本",
+        "ClearedOrder__c": 55,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_sales-cloud-rollout-strategy",
+        "TrailheadCode__c": "modules_sales-cloud-rollout-strategy",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Sales Cloud のロールアウト戦略",
+        "ClearedOrder__c": 54,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lead-to-cash-sales-features",
+        "TrailheadCode__c": "modules_lead-to-cash-sales-features",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "リード創出から収益実現までのセールス機能",
+        "ClearedOrder__c": 53,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_sales-cloud-platform-quick-look",
+        "TrailheadCode__c": "modules_sales-cloud-platform-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Sales Cloud の基本",
+        "ClearedOrder__c": 52,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_workshop-battle-station",
+        "TrailheadCode__c": "projects_workshop-battle-station",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Space Station (宇宙ステーション) アプリケーションを構築する",
+        "ClearedOrder__c": 51,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_quickstart-app-builder",
+        "TrailheadCode__c": "projects_quickstart-app-builder",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "クイックスタート: Lightning アプリケーションビルダー",
+        "ClearedOrder__c": 50,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_administrator-certification-prep-security-and-data-management",
+        "TrailheadCode__c": "modules_administrator-certification-prep-security-and-data-management",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "アドミニストレーター認定の準備: データと自動化",
+        "ClearedOrder__c": 49,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_administrator-certification-prep-applications-activities-and-mobile",
+        "TrailheadCode__c": "modules_administrator-certification-prep-applications-activities-and-mobile",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "アドミニストレーター認定の準備: アプリケーションと活動",
+        "ClearedOrder__c": 48,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_build-a-simple-flow",
+        "TrailheadCode__c": "projects_build-a-simple-flow",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "簡単なフローの作成",
+        "ClearedOrder__c": 47,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_community_cloud_basics",
+        "TrailheadCode__c": "modules_community_cloud_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Experience Cloud の基本",
+        "ClearedOrder__c": 46,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_business_process_automation",
+        "TrailheadCode__c": "modules_business_process_automation",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "承認プロセスを使用してレコードを承認する",
+        "ClearedOrder__c": 45,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_build-a-discount-approval-process",
+        "TrailheadCode__c": "projects_build-a-discount-approval-process",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "割引承認プロセスの作成",
+        "ClearedOrder__c": 44,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_create-reports-and-dashboards-for-sales-and-marketing-managers",
+        "TrailheadCode__c": "projects_create-reports-and-dashboards-for-sales-and-marketing-managers",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "営業マネージャーとマーケティングマネージャー用のレポートとダッシュボードの作成",
+        "ClearedOrder__c": 42,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_import-and-export-with-data-management-tools",
+        "TrailheadCode__c": "projects_import-and-export-with-data-management-tools",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "データ管理ツールを使用したインポートとエクスポート",
+        "ClearedOrder__c": 41,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_appexchange_basics",
+        "TrailheadCode__c": "modules_appexchange_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "AppExchange の基本",
+        "ClearedOrder__c": 40,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_sales_admin_duplicate_management",
+        "TrailheadCode__c": "modules_sales_admin_duplicate_management",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "重複管理",
+        "ClearedOrder__c": 39,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lex_implementation_chatter",
+        "TrailheadCode__c": "modules_lex_implementation_chatter",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Experience の Chatter の管理",
+        "ClearedOrder__c": 38,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_chatter_basics_for_users",
+        "TrailheadCode__c": "modules_chatter_basics_for_users",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Experience の Chatter",
+        "ClearedOrder__c": 37,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_administrator-certification-prep-setup-and-objects",
+        "TrailheadCode__c": "modules_administrator-certification-prep-setup-and-objects",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "アドミニストレーター認定の準備: 構成、設定とオブジェクト",
+        "ClearedOrder__c": 36,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lightning-knowledge-basics",
+        "TrailheadCode__c": "modules_lightning-knowledge-basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Experience のナレッジの基本",
+        "ClearedOrder__c": 35,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_set-up-case-escalation-entitlements",
+        "TrailheadCode__c": "projects_set-up-case-escalation-entitlements",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Set Up Case Escalation and Entitlements",
+        "ClearedOrder__c": 34,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_create-a-process-for-managing-support-cases",
+        "TrailheadCode__c": "projects_create-a-process-for-managing-support-cases",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "サポートケースを管理するプロセスの作成",
+        "ClearedOrder__c": 33,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_set-up-the-service-console",
+        "TrailheadCode__c": "projects_set-up-the-service-console",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "サービスコンソールの設定",
+        "ClearedOrder__c": 32,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_point_click_business_logic",
+        "TrailheadCode__c": "modules_point_click_business_logic",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "数式と入力規則",
+        "ClearedOrder__c": 31,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_service_lex",
+        "TrailheadCode__c": "modules_service_lex",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Experience の Service Cloud",
+        "ClearedOrder__c": 30,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_customize-a-sales-path-for-your-team",
+        "TrailheadCode__c": "projects_customize-a-sales-path-for-your-team",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "チームのセールスパスのカスタマイズ",
+        "ClearedOrder__c": 29,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_campaign_basics",
+        "TrailheadCode__c": "modules_campaign_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "キャンペーンの基本",
+        "ClearedOrder__c": 28,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_sales_admin_products_quotes_contracts",
+        "TrailheadCode__c": "modules_sales_admin_products_quotes_contracts",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "商品、見積、契約",
+        "ClearedOrder__c": 27,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_leads_opportunities_lightning_experience",
+        "TrailheadCode__c": "modules_leads_opportunities_lightning_experience",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "リードと商談",
+        "ClearedOrder__c": 26,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_accounts_contacts_lightning_experience",
+        "TrailheadCode__c": "modules_accounts_contacts_lightning_experience",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "取引先と取引先責任者",
+        "ClearedOrder__c": 25,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lightning_app_builder",
+        "TrailheadCode__c": "modules_lightning_app_builder",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning アプリケーションビルダー",
+        "ClearedOrder__c": 24,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lex_migration_customization",
+        "TrailheadCode__c": "modules_lex_migration_customization",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "アプリケーションの簡易カスタマイズ",
+        "ClearedOrder__c": 23,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_customize-a-salesforce-object",
+        "TrailheadCode__c": "projects_customize-a-salesforce-object",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce オブジェクトをカスタマイズする",
+        "ClearedOrder__c": 22,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_identity_login",
+        "TrailheadCode__c": "modules_identity_login",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "ユーザー認証",
+        "ClearedOrder__c": 21,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_protect-your-data-in-salesforce",
+        "TrailheadCode__c": "projects_protect-your-data-in-salesforce",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce のデータの保護",
+        "ClearedOrder__c": 20,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_permission-set-groups",
+        "TrailheadCode__c": "modules_permission-set-groups",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "権限セットグループ",
+        "ClearedOrder__c": 19,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_data_security",
+        "TrailheadCode__c": "modules_data_security",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "データセキュリティ",
+        "ClearedOrder__c": 18,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_outlook_integration",
+        "TrailheadCode__c": "modules_outlook_integration",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce と Outlook インテグレーション",
+        "ClearedOrder__c": 17,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_identity_basics",
+        "TrailheadCode__c": "modules_identity_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Identity の基本",
+        "ClearedOrder__c": 16,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_customize-an-org-to-support-a-new-business-unit",
+        "TrailheadCode__c": "projects_customize-an-org-to-support-a-new-business-unit",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "組織をカスタマイズして新規ビジネスユニットをサポート",
+        "ClearedOrder__c": 15,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lex_implementation_user_setup_mgmt",
+        "TrailheadCode__c": "modules_lex_implementation_user_setup_mgmt",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "ユーザー管理",
+        "ClearedOrder__c": 14,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_company_wide_org_settings",
+        "TrailheadCode__c": "modules_company_wide_org_settings",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "会社全体の組織設定",
+        "ClearedOrder__c": 13,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_projects_prepare-your-salesforce-org-for-users",
+        "TrailheadCode__c": "projects_prepare-your-salesforce-org-for-users",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "ユーザー向けの Salesforce 組織の準備",
+        "ClearedOrder__c": 12,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lex_implementation_reports_dashboards",
+        "TrailheadCode__c": "modules_lex_implementation_reports_dashboards",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Experience のレポートおよびダッシュボード",
+        "ClearedOrder__c": 11,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_user-engagement",
+        "TrailheadCode__c": "modules_user-engagement",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "ユーザーエンゲージメント",
+        "ClearedOrder__c": 10,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_salesforce1_mobile_app",
+        "TrailheadCode__c": "modules_salesforce1_mobile_app",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce モバイルアプリケーションのカスタマイズ",
+        "ClearedOrder__c": 9,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lex_customization",
+        "TrailheadCode__c": "modules_lex_customization",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Lightning Experience のカスタマイズ",
+        "ClearedOrder__c": 8,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_lex_implementation_data_management",
+        "TrailheadCode__c": "modules_lex_implementation_data_management",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "データ管理",
+        "ClearedOrder__c": 7,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_starting_force_com",
+        "TrailheadCode__c": "modules_starting_force_com",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce Platform の基礎",
+        "ClearedOrder__c": 6,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_data_modeling",
+        "TrailheadCode__c": "modules_data_modeling",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "データモデリング",
+        "ClearedOrder__c": 5,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_trailhead_basics",
+        "TrailheadCode__c": "modules_trailhead_basics",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Trailhead のガイド",
+        "ClearedOrder__c": 4,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_the-fourth-industrial-revolution-quick-look",
+        "TrailheadCode__c": "modules_the-fourth-industrial-revolution-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "第 4 次産業革命: クイックルック",
+        "ClearedOrder__c": 2,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/mkitamura12_modules_salesforce-quick-look-1",
+        "TrailheadCode__c": "modules_salesforce-quick-look-1",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/mkitamura12",
+        "TrailheadName__c": "Salesforce のバリュー: クイックルック",
+        "ClearedOrder__c": 1,
+        "ScrapingExecutionDate__c": "2024-06-26T15:25:47.000"
+    }
+]
