@@ -39,8 +39,8 @@ class Scraping(ScrapingUtil):
     def configure_chrome_options(self):
         """WebDriverのChromeオプションを設定する。"""
         options = Options()
-        options.add_argument("--user-data-dir={}".format(trailblazerProfile_scraping_prop.user_data_dir))
-        options.add_argument("--profile-directory={}".format(trailblazerProfile_scraping_prop.profile_directory))
+        # options.add_argument("--user-data-dir={}".format(trailblazerProfile_scraping_prop.user_data_dir))
+        # options.add_argument("--profile-directory={}".format(trailblazerProfile_scraping_prop.profile_directory))
         options.add_argument("--lang=ja-JP")
         return options
 
