@@ -139,7 +139,6 @@ class Scraping(ScrapingUtil):
         try:
             badges = self.scraping_trailhead_badge(driver, trailblazerId)
             badge_dict_queue.put(badges)
-            
             certification = self.scraping_salesforce_certification(driver=driver, trailblazerId=trailblazerId)
             certifications_dict_queue.put(certification)
         finally:
