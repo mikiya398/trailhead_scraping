@@ -1,0 +1,18 @@
+[
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/maigib_modules_lead-to-cash-sales-features",
+        "TrailheadCode__c": "modules_lead-to-cash-sales-features",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/maigib",
+        "TrailheadName__c": "リード創出から収益実現までのセールス機能",
+        "ClearedOrder__c": 2,
+        "ScrapingExecutionDate__c": "2024-06-26T10:18:54.000"
+    },
+    {
+        "ForeignKey__c": "https://www.salesforce.com/trailblazer/maigib_modules_sales-cloud-platform-quick-look",
+        "TrailheadCode__c": "modules_sales-cloud-platform-quick-look",
+        "TrailblazerId__c": "https://www.salesforce.com/trailblazer/maigib",
+        "TrailheadName__c": "Sales Cloud の基本",
+        "ClearedOrder__c": 1,
+        "ScrapingExecutionDate__c": "2024-06-26T10:18:54.000"
+    }
+]
