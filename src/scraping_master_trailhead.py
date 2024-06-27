@@ -11,16 +11,12 @@ import trailblazerProfile_scraping_prop
 
 class ScrapingMasterTrailhead(ScrapingUtil):
     def __init__(self, driver=None):
-        self.change_language_Flg = True
-        self.cookie_Flg = True
-        self.access_page_flg = True
         self.terminate_existing_chrome_processes()
         self.options = self.configure_chrome_options()
         self.driver = driver or webdriver.Chrome(options=self.options)
-        self.now = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.000+9000")
-        self.salesforce_now = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M")
         self.wait = WebDriverWait(self.driver, 10)
-        self.trailhead_dict = self.create_dict_from_csv(trailblazerProfile_scraping_prop.input_trailhead_file, 0)
+        self.cookie_Flg = True
+        
 
     def find_shadow(self, parent_tag, search_child_tag_name):
         elements = parent_tag.find_elements(By.CSS_SELECTOR, '*')
@@ -63,8 +59,6 @@ class ScrapingMasterTrailhead(ScrapingUtil):
     def scraping_all_trailhead(self):
         """すべてのTrailheadモジュールとプロジェクトをスクレイピングする。"""
         output = []
-        if not trailblazerProfile_scraping_prop.get_all_trailhead_flg:
-            return
         for url in trailblazerProfile_scraping_prop.modules_projects_url:
             self.access_page(url)
             a = self.get_shadow_root_by_url(url)
@@ -78,7 +72,7 @@ class ScrapingMasterTrailhead(ScrapingUtil):
             time.sleep(20)
             lwc_tds_content_collection_items = self.find_shadow(d, 'lwc-tds-content-collection-item')
             output += self.extract_trailhead_data(lwc_tds_content_collection_items)
-        self.save_json(output, 'Trailhead__c')
+        self.save_json(output, 'trailhead/Trailhead__c')
 
     def get_shadow_root_by_url(self, url):
         """URLに応じて適切なshadow root要素を返す。"""

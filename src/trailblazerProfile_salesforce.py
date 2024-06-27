@@ -14,7 +14,7 @@ def upsert():
     # JSONファイルを読み込む
     with open('./data/output/badge/CompletedTrailheadWK__c.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
-        
+    
     sf.bulk.CompletedTrailheadWK__c.upsert(data,'ForeignKey__c',batch_size=1000,use_serial=True)
 
 if __name__ == "__main__":
