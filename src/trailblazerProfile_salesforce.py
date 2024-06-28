@@ -2,9 +2,9 @@ from simple_salesforce import Salesforce
 import json
 
 # 環境変数から当該組織へアクセスできるユーザー名/パスワードを読み込み
-USERNAME = 'mkitamura@sfdc.0'
-PASSWORD = 'Salesforce01'
-TOKEN = 'v290FvnColqOzZFmD351PlmN'
+USERNAME = ''
+PASSWORD = ''
+TOKEN = ''
 
 def upsert():
     # 接続実施
